@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':numbersactivity', ':familymembersactivity', ':colorsactivity', ':phrasesactivity', ':numbersactivity2'
